@@ -1,2 +1,0 @@
-# muslim-time
-test
